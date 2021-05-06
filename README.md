@@ -1,5 +1,6 @@
 # constellation
-
+>使用前提：申请聚合科技key，网址：https://www.juhe.cn/docs/api/id/58
+>在src/configs/keys.js中填入自己的keys
 ## Project setup
 ```
 yarn install
