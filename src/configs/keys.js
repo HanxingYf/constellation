@@ -1,4 +1,5 @@
-const JUHE_APPKEY = "1d74cd347b169ba4422176ad1350f3b2";
+// 填入自己的keys
+const JUHE_APPKEY = "xxxxxxxxxxxxxxxxxx";
 // const JUHE_APPKEY = '';
 
 export {
